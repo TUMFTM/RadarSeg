@@ -6,9 +6,12 @@ The radar segmentation (RadarSeg) project provides a complete pipeline to perfor
 <img src="./docs/images/velocity_input.svg?sanitize=true" width="400">
 </p>
 
-The complete pipeline from data pre-processing to model evaluation is illustrated in the following and the tutorial will guide you through this repository.
+The readme will guide you through this repository with the following steps:
+* Preperation, setup and configuration
+* Preprocessing the data with an adaptable config to a TFRecords data set.
+* Training with the preprocessed data and observation in tensorboard.
+* Evaluation of the trained checkpoint.
 
-<img src="./docs/images/Fig_Pipeline.png"/>
 
 ## Preparation
 To get started we first want to create a dedicated project folder which contains everything we need throughout this project. Within this folder create three additional folders like so:
