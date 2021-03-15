@@ -214,5 +214,5 @@ If you find our work useful in your research, please consider citing:
         year={2021},
         number={6},
         article-number={2599},
-        doi=https://doi.org/10.3390/app11062599
+        doi={https://doi.org/10.3390/app11062599}
     }
