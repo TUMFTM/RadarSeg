@@ -206,9 +206,13 @@ python3 radarseg/evaluate.py --config '/radarseg/examples/02_KPConvCLSTM.ini' --
 
 If you find our work useful in your research, please consider citing:
 
-    @INPROCEEDINGS{nobis21radar,
+    @Article{nobis21radar,
         author={Nobis, Felix and Fent, Felix and Betz, Johannes and Lienkamp, Markus},
-        title={Kernel Point Convolution LSTM Networks for Radar Point Cloud Segmentation - The Necessity for Quality Public Radar Data},
-        booktitle={MDPI Applied Sciences},
+        title={Kernel Point Convolution LSTM Networks for Radar Point Cloud Segmentation},
+        journal={Applied Sciences},
+        volume={11},
         year={2021},
+        number={6},
+        article-number={2599},
+        doi=https://doi.org/10.3390/app11062599
     }
